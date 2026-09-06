@@ -34,7 +34,8 @@
     if (line) line.q = Math.min(99, line.q + qty);
     else cart.push({ h: handle, q: Math.min(99, qty) });
     saveCart();
-    toast(`${byHandle.get(handle).t} added`);
+    // The drawer sliding open is the confirmation; a toast on top of it is
+    // redundant and lands directly over the checkout button.
     openPanel('cart');
   }
   function setQty(handle, q) {
