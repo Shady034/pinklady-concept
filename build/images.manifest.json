@@ -1,0 +1,686 @@
+{
+  "bridal-fast-whitening-night-face-cream": [
+    {
+      "ratio": 0.6667,
+      "lg": "bridal-fast-whitening-night-face-cream-1-lg.jpg",
+      "md": "bridal-fast-whitening-night-face-cream-1-md.jpg",
+      "sm": "bridal-fast-whitening-night-face-cream-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "bridal-fast-whitening-night-face-cream-2-lg.jpg",
+      "md": "bridal-fast-whitening-night-face-cream-2-md.jpg",
+      "sm": "bridal-fast-whitening-night-face-cream-2-sm.jpg"
+    }
+  ],
+  "skin-lightening-day-cream": [
+    {
+      "ratio": 0.6667,
+      "lg": "skin-lightening-day-cream-1-lg.jpg",
+      "md": "skin-lightening-day-cream-1-md.jpg",
+      "sm": "skin-lightening-day-cream-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "skin-lightening-day-cream-2-md.jpg",
+      "lg": "skin-lightening-day-cream-2-lg.jpg",
+      "sm": "skin-lightening-day-cream-2-sm.jpg"
+    }
+  ],
+  "underarm-bikini-whitening-cream": [
+    {
+      "ratio": 0.6667,
+      "md": "underarm-bikini-whitening-cream-1-md.jpg",
+      "lg": "underarm-bikini-whitening-cream-1-lg.jpg",
+      "sm": "underarm-bikini-whitening-cream-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "underarm-bikini-whitening-cream-2-lg.jpg",
+      "md": "underarm-bikini-whitening-cream-2-md.jpg",
+      "sm": "underarm-bikini-whitening-cream-2-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "underarm-bikini-whitening-cream-3-md.jpg",
+      "lg": "underarm-bikini-whitening-cream-3-lg.jpg",
+      "sm": "underarm-bikini-whitening-cream-3-sm.jpg"
+    }
+  ],
+  "alpha-arbutin-whitening-soap": [
+    {
+      "ratio": 0.6667,
+      "lg": "alpha-arbutin-whitening-soap-1-lg.jpg",
+      "md": "alpha-arbutin-whitening-soap-1-md.jpg",
+      "sm": "alpha-arbutin-whitening-soap-1-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "lg": "alpha-arbutin-whitening-soap-2-lg.jpg",
+      "md": "alpha-arbutin-whitening-soap-2-md.jpg",
+      "sm": "alpha-arbutin-whitening-soap-2-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "alpha-arbutin-whitening-soap-3-md.jpg",
+      "lg": "alpha-arbutin-whitening-soap-3-lg.jpg",
+      "sm": "alpha-arbutin-whitening-soap-3-sm.jpg"
+    }
+  ],
+  "anti-acne-soap": [
+    {
+      "ratio": 0.6667,
+      "lg": "anti-acne-soap-1-lg.jpg",
+      "md": "anti-acne-soap-1-md.jpg",
+      "sm": "anti-acne-soap-1-sm.jpg"
+    },
+    {
+      "ratio": 0.75,
+      "md": "anti-acne-soap-2-md.jpg",
+      "lg": "anti-acne-soap-2-lg.jpg",
+      "sm": "anti-acne-soap-2-sm.jpg"
+    },
+    {
+      "ratio": 0.6525,
+      "md": "anti-acne-soap-3-md.jpg",
+      "lg": "anti-acne-soap-3-lg.jpg",
+      "sm": "anti-acne-soap-3-sm.jpg"
+    },
+    {
+      "ratio": 1.5,
+      "md": "anti-acne-soap-4-md.jpg",
+      "lg": "anti-acne-soap-4-lg.jpg",
+      "sm": "anti-acne-soap-4-sm.jpg"
+    }
+  ],
+  "under-eye-dark-circles-removing-serum": [
+    {
+      "ratio": 0.6667,
+      "md": "under-eye-dark-circles-removing-serum-1-md.jpg",
+      "lg": "under-eye-dark-circles-removing-serum-1-lg.jpg",
+      "sm": "under-eye-dark-circles-removing-serum-1-sm.jpg"
+    },
+    {
+      "ratio": 1.7504,
+      "lg": "under-eye-dark-circles-removing-serum-2-lg.jpg",
+      "md": "under-eye-dark-circles-removing-serum-2-md.jpg",
+      "sm": "under-eye-dark-circles-removing-serum-2-sm.jpg"
+    }
+  ],
+  "face-whitening-toner": [
+    {
+      "ratio": 0.75,
+      "lg": "face-whitening-toner-1-lg.jpg",
+      "md": "face-whitening-toner-1-md.jpg",
+      "sm": "face-whitening-toner-1-sm.jpg"
+    }
+  ],
+  "untitled-jan4_23-33": [
+    {
+      "ratio": 0.6664,
+      "md": "untitled-jan4_23-33-1-md.jpg",
+      "lg": "untitled-jan4_23-33-1-lg.jpg",
+      "sm": "untitled-jan4_23-33-1-sm.jpg"
+    },
+    {
+      "ratio": 1.7772,
+      "md": "untitled-jan4_23-33-2-md.jpg",
+      "lg": "untitled-jan4_23-33-2-lg.jpg",
+      "sm": "untitled-jan4_23-33-2-sm.jpg"
+    }
+  ],
+  "blush-pink-whitening-scrub": [
+    {
+      "ratio": 0.6667,
+      "lg": "blush-pink-whitening-scrub-1-lg.jpg",
+      "md": "blush-pink-whitening-scrub-1-md.jpg",
+      "sm": "blush-pink-whitening-scrub-1-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "lg": "blush-pink-whitening-scrub-2-lg.jpg",
+      "md": "blush-pink-whitening-scrub-2-md.jpg",
+      "sm": "blush-pink-whitening-scrub-2-sm.jpg"
+    },
+    {
+      "ratio": 0.6663,
+      "lg": "blush-pink-whitening-scrub-3-lg.jpg",
+      "md": "blush-pink-whitening-scrub-3-md.jpg",
+      "sm": "blush-pink-whitening-scrub-3-sm.jpg"
+    },
+    {
+      "ratio": 0.781,
+      "lg": "blush-pink-whitening-scrub-4-lg.jpg",
+      "md": "blush-pink-whitening-scrub-4-md.jpg",
+      "sm": "blush-pink-whitening-scrub-4-sm.jpg"
+    }
+  ],
+  "anti-dandruff-shampoo": [
+    {
+      "ratio": 0.6672,
+      "lg": "anti-dandruff-shampoo-1-lg.jpg",
+      "md": "anti-dandruff-shampoo-1-md.jpg",
+      "sm": "anti-dandruff-shampoo-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "anti-dandruff-shampoo-2-md.jpg",
+      "lg": "anti-dandruff-shampoo-2-lg.jpg",
+      "sm": "anti-dandruff-shampoo-2-sm.jpg"
+    }
+  ],
+  "revive-restore-conditioner": [
+    {
+      "ratio": 0.6667,
+      "md": "revive-restore-conditioner-1-md.jpg",
+      "lg": "revive-restore-conditioner-1-lg.jpg",
+      "sm": "revive-restore-conditioner-1-sm.jpg"
+    }
+  ],
+  "niacinamide-whitening-face-wash": [
+    {
+      "ratio": 0.6666,
+      "lg": "niacinamide-whitening-face-wash-1-lg.jpg",
+      "md": "niacinamide-whitening-face-wash-1-md.jpg",
+      "sm": "niacinamide-whitening-face-wash-1-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "lg": "niacinamide-whitening-face-wash-2-lg.jpg",
+      "md": "niacinamide-whitening-face-wash-2-md.jpg",
+      "sm": "niacinamide-whitening-face-wash-2-sm.jpg"
+    }
+  ],
+  "vit-c-skin-lightening-soap": [
+    {
+      "ratio": 0.6667,
+      "md": "vit-c-skin-lightening-soap-1-md.jpg",
+      "lg": "vit-c-skin-lightening-soap-1-lg.jpg",
+      "sm": "vit-c-skin-lightening-soap-1-sm.jpg"
+    }
+  ],
+  "fairness-face-wash": [
+    {
+      "ratio": 0.75,
+      "md": "fairness-face-wash-1-md.jpg",
+      "lg": "fairness-face-wash-1-lg.jpg",
+      "sm": "fairness-face-wash-1-sm.jpg"
+    },
+    {
+      "ratio": 0.75,
+      "md": "fairness-face-wash-2-md.jpg",
+      "lg": "fairness-face-wash-2-lg.jpg",
+      "sm": "fairness-face-wash-2-sm.jpg"
+    }
+  ],
+  "pinkish-lip-cream": [
+    {
+      "ratio": 0.6667,
+      "lg": "pinkish-lip-cream-1-lg.jpg",
+      "md": "pinkish-lip-cream-1-md.jpg",
+      "sm": "pinkish-lip-cream-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "pinkish-lip-cream-2-md.jpg",
+      "lg": "pinkish-lip-cream-2-lg.jpg",
+      "sm": "pinkish-lip-cream-2-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "pinkish-lip-cream-3-lg.jpg",
+      "md": "pinkish-lip-cream-3-md.jpg",
+      "sm": "pinkish-lip-cream-3-sm.jpg"
+    }
+  ],
+  "lip-lightening-strawberry-scrub": [
+    {
+      "ratio": 0.6667,
+      "md": "lip-lightening-strawberry-scrub-1-md.jpg",
+      "lg": "lip-lightening-strawberry-scrub-1-lg.jpg",
+      "sm": "lip-lightening-strawberry-scrub-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "lip-lightening-strawberry-scrub-2-lg.jpg",
+      "md": "lip-lightening-strawberry-scrub-2-md.jpg",
+      "sm": "lip-lightening-strawberry-scrub-2-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "lip-lightening-strawberry-scrub-3-md.jpg",
+      "lg": "lip-lightening-strawberry-scrub-3-lg.jpg",
+      "sm": "lip-lightening-strawberry-scrub-3-sm.jpg"
+    }
+  ],
+  "body-whitening-toner": [
+    {
+      "ratio": 0.6667,
+      "lg": "body-whitening-toner-1-lg.jpg",
+      "md": "body-whitening-toner-1-md.jpg",
+      "sm": "body-whitening-toner-1-sm.jpg"
+    }
+  ],
+  "eyelash-brows-growth-oil": [
+    {
+      "ratio": 0.6667,
+      "lg": "eyelash-brows-growth-oil-1-lg.jpg",
+      "md": "eyelash-brows-growth-oil-1-md.jpg",
+      "sm": "eyelash-brows-growth-oil-1-sm.jpg"
+    },
+    {
+      "ratio": 0.75,
+      "lg": "eyelash-brows-growth-oil-2-lg.jpg",
+      "md": "eyelash-brows-growth-oil-2-md.jpg",
+      "sm": "eyelash-brows-growth-oil-2-sm.jpg"
+    },
+    {
+      "ratio": 0.5625,
+      "md": "eyelash-brows-growth-oil-3-md.jpg",
+      "lg": "eyelash-brows-growth-oil-3-lg.jpg",
+      "sm": "eyelash-brows-growth-oil-3-sm.jpg"
+    }
+  ],
+  "face-body-whitening-oil": [
+    {
+      "ratio": 0.6667,
+      "lg": "face-body-whitening-oil-1-lg.jpg",
+      "md": "face-body-whitening-oil-1-md.jpg",
+      "sm": "face-body-whitening-oil-1-sm.jpg"
+    },
+    {
+      "ratio": 1.0383,
+      "md": "face-body-whitening-oil-2-md.jpg",
+      "lg": "face-body-whitening-oil-2-lg.jpg",
+      "sm": "face-body-whitening-oil-2-sm.jpg"
+    },
+    {
+      "ratio": 1.3333,
+      "lg": "face-body-whitening-oil-3-lg.jpg",
+      "md": "face-body-whitening-oil-3-md.jpg",
+      "sm": "face-body-whitening-oil-3-sm.jpg"
+    }
+  ],
+  "pimple-pack": [
+    {
+      "ratio": 0.75,
+      "lg": "pimple-pack-1-lg.jpg",
+      "md": "pimple-pack-1-md.jpg",
+      "sm": "pimple-pack-1-sm.jpg"
+    },
+    {
+      "ratio": 1.3333,
+      "md": "pimple-pack-2-md.jpg",
+      "lg": "pimple-pack-2-lg.jpg",
+      "sm": "pimple-pack-2-sm.jpg"
+    },
+    {
+      "ratio": 0.75,
+      "sm": "pimple-pack-3-sm.jpg",
+      "lg": "pimple-pack-3-lg.jpg",
+      "md": "pimple-pack-3-md.jpg"
+    }
+  ],
+  "skin-whitening-face-pack": [
+    {
+      "ratio": 0.6667,
+      "md": "skin-whitening-face-pack-1-md.jpg",
+      "lg": "skin-whitening-face-pack-1-lg.jpg",
+      "sm": "skin-whitening-face-pack-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "skin-whitening-face-pack-2-md.jpg",
+      "lg": "skin-whitening-face-pack-2-lg.jpg",
+      "sm": "skin-whitening-face-pack-2-sm.jpg"
+    }
+  ],
+  "skin-whitening-vit-c-pack": [
+    {
+      "ratio": 0.6667,
+      "lg": "skin-whitening-vit-c-pack-1-lg.jpg",
+      "md": "skin-whitening-vit-c-pack-1-md.jpg",
+      "sm": "skin-whitening-vit-c-pack-1-sm.jpg"
+    },
+    {
+      "ratio": 0.8003,
+      "lg": "skin-whitening-vit-c-pack-2-lg.jpg",
+      "md": "skin-whitening-vit-c-pack-2-md.jpg",
+      "sm": "skin-whitening-vit-c-pack-2-sm.jpg"
+    }
+  ],
+  "herbal-body-hair-removal-spray": [
+    {
+      "ratio": 0.6667,
+      "lg": "herbal-body-hair-removal-spray-1-lg.jpg",
+      "md": "herbal-body-hair-removal-spray-1-md.jpg",
+      "sm": "herbal-body-hair-removal-spray-1-sm.jpg"
+    }
+  ],
+  "body-whitening-wash": [
+    {
+      "ratio": 0.6667,
+      "md": "body-whitening-wash-1-md.jpg",
+      "lg": "body-whitening-wash-1-lg.jpg",
+      "sm": "body-whitening-wash-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "body-whitening-wash-2-lg.jpg",
+      "md": "body-whitening-wash-2-md.jpg",
+      "sm": "body-whitening-wash-2-sm.jpg"
+    }
+  ],
+  "foot-care": [
+    {
+      "ratio": 0.6667,
+      "lg": "foot-care-1-lg.jpg",
+      "md": "foot-care-1-md.jpg",
+      "sm": "foot-care-1-sm.jpg"
+    },
+    {
+      "ratio": 1.5,
+      "lg": "foot-care-2-lg.jpg",
+      "md": "foot-care-2-md.jpg",
+      "sm": "foot-care-2-sm.jpg"
+    }
+  ],
+  "aqua-dreams-shampoo": [
+    {
+      "ratio": 0.6667,
+      "lg": "aqua-dreams-shampoo-1-lg.jpg",
+      "md": "aqua-dreams-shampoo-1-md.jpg",
+      "sm": "aqua-dreams-shampoo-1-sm.jpg"
+    }
+  ],
+  "extreme-hair-growth-oil": [
+    {
+      "ratio": 0.6503,
+      "lg": "extreme-hair-growth-oil-1-lg.jpg",
+      "md": "extreme-hair-growth-oil-1-md.jpg",
+      "sm": "extreme-hair-growth-oil-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "extreme-hair-growth-oil-2-lg.jpg",
+      "md": "extreme-hair-growth-oil-2-md.jpg",
+      "sm": "extreme-hair-growth-oil-2-sm.jpg"
+    }
+  ],
+  "untitled-may3_19-47": [
+    {
+      "ratio": 0.6667,
+      "md": "untitled-may3_19-47-1-md.jpg",
+      "lg": "untitled-may3_19-47-1-lg.jpg",
+      "sm": "untitled-may3_19-47-1-sm.jpg"
+    },
+    {
+      "ratio": 1.5,
+      "lg": "untitled-may3_19-47-2-lg.jpg",
+      "md": "untitled-may3_19-47-2-md.jpg",
+      "sm": "untitled-may3_19-47-2-sm.jpg"
+    }
+  ],
+  "pinkish-face-serum-2-x-fast-whitening": [
+    {
+      "ratio": 0.6667,
+      "md": "pinkish-face-serum-2-x-fast-whitening-1-md.jpg",
+      "lg": "pinkish-face-serum-2-x-fast-whitening-1-lg.jpg",
+      "sm": "pinkish-face-serum-2-x-fast-whitening-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "pinkish-face-serum-2-x-fast-whitening-2-lg.jpg",
+      "md": "pinkish-face-serum-2-x-fast-whitening-2-md.jpg",
+      "sm": "pinkish-face-serum-2-x-fast-whitening-2-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "md": "pinkish-face-serum-2-x-fast-whitening-3-md.jpg",
+      "lg": "pinkish-face-serum-2-x-fast-whitening-3-lg.jpg",
+      "sm": "pinkish-face-serum-2-x-fast-whitening-3-sm.jpg"
+    }
+  ],
+  "untitled-may3_21-10": [
+    {
+      "ratio": 0.6667,
+      "lg": "untitled-may3_21-10-1-lg.jpg",
+      "md": "untitled-may3_21-10-1-md.jpg",
+      "sm": "untitled-may3_21-10-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "untitled-may3_21-10-2-lg.jpg",
+      "md": "untitled-may3_21-10-2-md.jpg",
+      "sm": "untitled-may3_21-10-2-sm.jpg"
+    },
+    {
+      "ratio": 0.9779,
+      "md": "untitled-may3_21-10-3-md.jpg",
+      "lg": "untitled-may3_21-10-3-lg.jpg",
+      "sm": "untitled-may3_21-10-3-sm.jpg"
+    },
+    {
+      "ratio": 1.3333,
+      "lg": "untitled-may3_21-10-4-lg.jpg",
+      "md": "untitled-may3_21-10-4-md.jpg",
+      "sm": "untitled-may3_21-10-4-sm.jpg"
+    }
+  ],
+  "bridal-whitening-body-lotion": [
+    {
+      "ratio": 0.6667,
+      "lg": "bridal-whitening-body-lotion-1-lg.jpg",
+      "md": "bridal-whitening-body-lotion-1-md.jpg",
+      "sm": "bridal-whitening-body-lotion-1-sm.jpg"
+    },
+    {
+      "ratio": 0.5625,
+      "lg": "bridal-whitening-body-lotion-2-lg.jpg",
+      "md": "bridal-whitening-body-lotion-2-md.jpg",
+      "sm": "bridal-whitening-body-lotion-2-sm.jpg"
+    }
+  ],
+  "lip-oil": [
+    {
+      "ratio": 0.6667,
+      "md": "lip-oil-1-md.jpg",
+      "lg": "lip-oil-1-lg.jpg",
+      "sm": "lip-oil-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "lip-oil-2-md.jpg",
+      "lg": "lip-oil-2-lg.jpg",
+      "sm": "lip-oil-2-sm.jpg"
+    }
+  ],
+  "niacinamide-whitening-face-wash-1": [
+    {
+      "ratio": 0.75,
+      "md": "niacinamide-whitening-face-wash-1-1-md.jpg",
+      "lg": "niacinamide-whitening-face-wash-1-1-lg.jpg",
+      "sm": "niacinamide-whitening-face-wash-1-1-sm.jpg"
+    },
+    {
+      "ratio": 0.75,
+      "md": "niacinamide-whitening-face-wash-1-2-md.jpg",
+      "lg": "niacinamide-whitening-face-wash-1-2-lg.jpg",
+      "sm": "niacinamide-whitening-face-wash-1-2-sm.jpg"
+    }
+  ],
+  "pinkish-double-whitening-face-night-cream": [
+    {
+      "ratio": 0.6667,
+      "lg": "pinkish-double-whitening-face-night-cream-1-lg.jpg",
+      "md": "pinkish-double-whitening-face-night-cream-1-md.jpg",
+      "sm": "pinkish-double-whitening-face-night-cream-1-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "lg": "pinkish-double-whitening-face-night-cream-2-lg.jpg",
+      "md": "pinkish-double-whitening-face-night-cream-2-md.jpg",
+      "sm": "pinkish-double-whitening-face-night-cream-2-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "pinkish-double-whitening-face-night-cream-3-md.jpg",
+      "lg": "pinkish-double-whitening-face-night-cream-3-lg.jpg",
+      "sm": "pinkish-double-whitening-face-night-cream-3-sm.jpg"
+    }
+  ],
+  "tea-tree-face-wash-for-pimple-skin": [
+    {
+      "ratio": 0.75,
+      "md": "tea-tree-face-wash-for-pimple-skin-1-md.jpg",
+      "lg": "tea-tree-face-wash-for-pimple-skin-1-lg.jpg",
+      "sm": "tea-tree-face-wash-for-pimple-skin-1-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "md": "tea-tree-face-wash-for-pimple-skin-2-md.jpg",
+      "lg": "tea-tree-face-wash-for-pimple-skin-2-lg.jpg",
+      "sm": "tea-tree-face-wash-for-pimple-skin-2-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "tea-tree-face-wash-for-pimple-skin-3-lg.jpg",
+      "md": "tea-tree-face-wash-for-pimple-skin-3-md.jpg",
+      "sm": "tea-tree-face-wash-for-pimple-skin-3-sm.jpg"
+    }
+  ],
+  "sun-shield-spf-50": [
+    {
+      "ratio": 0.75,
+      "md": "sun-shield-spf-50-1-md.jpg",
+      "lg": "sun-shield-spf-50-1-lg.jpg",
+      "sm": "sun-shield-spf-50-1-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "md": "sun-shield-spf-50-2-md.jpg",
+      "lg": "sun-shield-spf-50-2-lg.jpg",
+      "sm": "sun-shield-spf-50-2-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "lg": "sun-shield-spf-50-3-lg.jpg",
+      "md": "sun-shield-spf-50-3-md.jpg",
+      "sm": "sun-shield-spf-50-3-sm.jpg"
+    }
+  ],
+  "glutathione-collagen-glow": [
+    {
+      "ratio": 0.6667,
+      "lg": "glutathione-collagen-glow-1-lg.jpg",
+      "md": "glutathione-collagen-glow-1-md.jpg",
+      "sm": "glutathione-collagen-glow-1-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "glutathione-collagen-glow-2-lg.jpg",
+      "md": "glutathione-collagen-glow-2-md.jpg",
+      "sm": "glutathione-collagen-glow-2-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "md": "glutathione-collagen-glow-3-md.jpg",
+      "lg": "glutathione-collagen-glow-3-lg.jpg",
+      "sm": "glutathione-collagen-glow-3-sm.jpg"
+    },
+    {
+      "ratio": 1,
+      "lg": "glutathione-collagen-glow-4-lg.jpg",
+      "md": "glutathione-collagen-glow-4-md.jpg",
+      "sm": "glutathione-collagen-glow-4-sm.jpg"
+    }
+  ],
+  "pinkish-foreign-skin-combo-offer": [
+    {
+      "ratio": 0.6667,
+      "lg": "pinkish-foreign-skin-combo-offer-1-lg.jpg",
+      "md": "pinkish-foreign-skin-combo-offer-1-md.jpg",
+      "sm": "pinkish-foreign-skin-combo-offer-1-sm.jpg"
+    }
+  ],
+  "acne-serum": [
+    {
+      "ratio": 0.6667,
+      "lg": "acne-serum-1-lg.jpg",
+      "md": "acne-serum-1-md.jpg",
+      "sm": "acne-serum-1-sm.jpg"
+    },
+    {
+      "ratio": 0.6667,
+      "lg": "acne-serum-2-lg.jpg",
+      "md": "acne-serum-2-md.jpg",
+      "sm": "acne-serum-2-sm.jpg"
+    },
+    {
+      "ratio": 1.5,
+      "lg": "acne-serum-3-lg.jpg",
+      "md": "acne-serum-3-md.jpg",
+      "sm": "acne-serum-3-sm.jpg"
+    }
+  ],
+  "weightloss-tea": [
+    {
+      "ratio": 0.6667,
+      "lg": "weightloss-tea-1-lg.jpg",
+      "md": "weightloss-tea-1-md.jpg",
+      "sm": "weightloss-tea-1-sm.jpg"
+    }
+  ],
+  "activated-charcoal-tea-tree-soap": [
+    {
+      "ratio": 0.6667,
+      "md": "activated-charcoal-tea-tree-soap-1-md.jpg",
+      "lg": "activated-charcoal-tea-tree-soap-1-lg.jpg",
+      "sm": "activated-charcoal-tea-tree-soap-1-sm.jpg"
+    },
+    {
+      "ratio": 0.75,
+      "lg": "activated-charcoal-tea-tree-soap-2-lg.jpg",
+      "md": "activated-charcoal-tea-tree-soap-2-md.jpg",
+      "sm": "activated-charcoal-tea-tree-soap-2-sm.jpg"
+    },
+    {
+      "ratio": 0.7064,
+      "lg": "activated-charcoal-tea-tree-soap-3-lg.jpg",
+      "md": "activated-charcoal-tea-tree-soap-3-md.jpg",
+      "sm": "activated-charcoal-tea-tree-soap-3-sm.jpg"
+    }
+  ],
+  "combo-offer": [
+    {
+      "ratio": 0.6667,
+      "lg": "combo-offer-1-lg.jpg",
+      "md": "combo-offer-1-md.jpg",
+      "sm": "combo-offer-1-sm.jpg"
+    }
+  ],
+  "combo-offer-1": [
+    {
+      "ratio": 0.6667,
+      "lg": "combo-offer-1-1-lg.jpg",
+      "md": "combo-offer-1-1-md.jpg",
+      "sm": "combo-offer-1-1-sm.jpg"
+    }
+  ],
+  "pimple-cure-whitening-combo": [
+    {
+      "ratio": 0.6667,
+      "lg": "pimple-cure-whitening-combo-1-lg.jpg",
+      "md": "pimple-cure-whitening-combo-1-md.jpg",
+      "sm": "pimple-cure-whitening-combo-1-sm.jpg"
+    }
+  ],
+  "body-whitening-combo-offer": [
+    {
+      "ratio": 0.6667,
+      "md": "body-whitening-combo-offer-1-md.jpg",
+      "lg": "body-whitening-combo-offer-1-lg.jpg",
+      "sm": "body-whitening-combo-offer-1-sm.jpg"
+    }
+  ]
+}
