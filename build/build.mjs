@@ -100,13 +100,9 @@ fs.writeFileSync(path.join(OUT, 'sitemap.xml'),
   urls.map((u) => `  <url><loc>${ROOT}${u}</loc></url>`).join('\n') + `\n</urlset>\n`);
 // This build republishes the client's own catalogue, so it must not compete
 // with pinklady.lk in search results.
-// This build republishes the client's own catalogue, so it must not compete
-// with pinklady.lk in search results.
 fs.writeFileSync(path.join(OUT, 'robots.txt'), `User-agent: *
 Disallow: /
 `);
-// Stops GitHub Pages running the output through Jekyll.
-fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
 // Stops GitHub Pages running the output through Jekyll.
 fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
 
